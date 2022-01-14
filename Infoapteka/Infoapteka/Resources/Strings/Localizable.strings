@@ -1,0 +1,151 @@
+/* 
+  Localizable.strings
+  Infoapteka
+
+  
+  
+*/
+
+//Onboarding
+"skip"    = "Пропустить";
+"ic_ob_1" = "Совершайте покупки \nне выходя \nиз дома";
+"ic_ob_2" = "Выбирайте \nиз лучших \nпроизводителей";
+"ic_ob_3" = "Бесплатная \nдоставка \nпо городу";
+
+//CheckErrorVC
+"update"                  = "Обновить";
+"unavailable"             = "Недоступен";
+"unavailable_server_info" = "Сервис временно недоступен!";
+"network"                 = "Интернет";
+"network_error_info"      = "Ваше интернет соединение \nнестабильно \nили отсутствует,  попробуйте \nобновить";
+
+//Auth
+"sign_in"                        = "Вход";
+"login"                          = "Войти";
+"log_out"                         = "Выйти";
+"dont_have_an_account?"          = "Нет аккаунта?";
+"registration"                   = "Регистрация";
+"register_now"                   = "Зарегистрироваться";
+"phone_number"                   = "Номер телефона";
+"incorrect_phone_number"         = "Неверный номер телефона?";
+"entered_incorrect_phone_number" = "Неправильно введен номер";
+
+//Код подтверждения
+"code_confirm"  = "Код подтверждения";
+"confirm_code"  = "Подтверждение номера \nтелефона";
+"codeInfoLbl"   = "Не пришло SMS сообщение?";
+"try_send"      = "Отправить снова через";
+"send"          = "Отправить";
+"update_number" = "Смена номера";
+"enter_code"    = "Введите код";
+"confirm"       = "Подтвердить";
+
+//TabBar
+"menu_title" = "Меню";
+
+// UserOptions
+"is_has_account"        = "Есть аккаунт?";
+"login"                 = "Войти";
+"register_description"  = "Зарегистрироваться как:";
+"customer"              = "Покупатель";
+"seller"                = "Продавец";
+
+// Registration
+"user_phone_number" = "Номер телефона";
+"user_phone_placeholder" = "555 55 55 55";
+"user_name" = "Имя*";
+"user_name_placeholder" = "Введите ваше имя";
+"user_surname" = "Фамилия*";
+"user_surname_placeholder" = "Введите вашу фамилию";
+"user_patronymic" = "Отчество";
+"user_patronymic_placeholder" = "Введите ваше отчество";
+"user_select_city" = "Выбор города*";
+"user_select_city_placeholder" = "Выберите ваш город";
+"user_birth_day" = "Дата рождения*";
+"user_birth_day_placeholder" = "Дата рождения";
+"user_address" = "Адрес*";
+"user_address_placeholder" = "Напишите ваш адрес";
+"remove_photo" = "Удалить фото";
+"upload_photo" = "Загрузить фото";
+
+// Menu Page
+"profile" = "Профиль";
+
+"order_history" = "История заказов";
+"about_company" = "О компании";
+"help" = "Помощь";
+"app_rule" = "Правила программы";
+"logout_from_account" = "Выйти из аккаунта";
+
+"register_as_customer"          = "Регистрация как пользователь";
+"register_as_seller"            = "Регистрация как продавец";
+"user_name_placeholder"         = "Введите ваше имя";
+"user_surname_placeholder"      = "Введите вашу фамилию";
+"user_middlename_placeholder"   = "Введите ваше отчество";
+"user_select_city_placeholder"  = "Выберите ваш город";
+"user_birth_day_placeholder"    = "Дата рождения";
+"user_address_placeholder"      = "Напишите ваш адрес";
+"certificates_placeholder"      = "Сертификаты";
+"programRules"                  = "правилами программы";
+"upload_image_info" = "Размер файла не должен превышать 2мб. \nФормат файлов JPG.";
+"save" = "Сохранить";
+
+
+//Cities
+"select_city" = "Выбор города";
+
+
+//SuccessRegister
+"success_register_info" = "Вы успешно \nзарегистрировались";
+"on_general" = "На главную";
+
+
+//InfoaptekaNavController
+"search" = "Поиск";
+
+//CategoriesTVC
+"see_all" = "Посмотреть все";
+
+//Hits
+"hits" = "Хиты продаж";
+"pre_product" = "Предзаказ";
+
+//About Company
+"our_phones" = "Наши телефоны:";
+"our_address" = "Наш адрес:";
+"our_emails" = "Email:";
+"our_social_media" = "Мы в социальных сетях:";
+
+// Favourites
+"empty_favourites" = "У вас пока нет избранных \nтоваров";
+
+//FilterTVC
+"sort" = "Сортировка";
+
+//Basket
+"basket" = "Корзина";
+"empty_basket" = "В корзине пока нет товаров";
+"remove" = "Удалить";
+
+// Drug Detail
+"instruction" = "Инструкция";
+"frequently_products" = "Часто покупаемые товары";
+"call" = "Позвонить";
+
+//Favourites
+"favourite" = "Избранное";
+
+//CreateDrug
+"create_drug" = "Добавление товара";
+
+//Notifications
+"notifications" = "Уведомления";
+"empty_notifications" = "У вас пока нет уведомлений";
+
+// MyProduct
+"edit" = "Редактировать";
+"empty_product" = "У вас пока товаров нет";
+
+// Drug Stores
+"drug_store_list" = "Cписок";
+"map" = "Карта";

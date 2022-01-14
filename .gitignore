@@ -1,0 +1,6 @@
+xcuserdata/
+xcshareddata/
+Carthage
+Cartfile.resolved
+.DS_Store
+Pods/

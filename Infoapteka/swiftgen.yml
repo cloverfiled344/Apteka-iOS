@@ -1,0 +1,24 @@
+xcassets:
+  inputs: Infoapteka/Resources/Assets/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: Infoapteka/Resources/Assets/Assets.swift
+
+fonts:
+    inputs: Infoapteka/Resources/Fonts
+    outputs:
+        templateName: swift5
+        output: Infoapteka/Resources/Fonts/Fonts.swift
+
+strings:
+  inputs: Infoapteka/Resources/Strings/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Infoapteka/Resources/Strings/Localizable.swift
+
+plist:
+  inputs: Infoapteka/Resources/Plists
+  outputs:
+    templateName: runtime-swift5
+    output: Infoapteka/Resources/Plists/Plist.swift
+
